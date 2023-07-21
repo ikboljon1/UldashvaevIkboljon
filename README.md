@@ -17,7 +17,7 @@ Web Developer and DevOps
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?&logo=whatsapp&logoColor=white)](https://wa.me/+996507727280)
 
 ---
-### 📋 Languages
+### 🛠 Technologies and tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
@@ -27,6 +27,12 @@ Web Developer and DevOps
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![Android](https://img.shields.io/badge/Android-3DDC84?&logo=android&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&logo=firebase)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?&logoColor=white)
 
 ### 📚 Frameworks, Platforms and Libraries
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white)
@@ -42,3 +48,14 @@ Web Developer and DevOps
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?&logo=opencv&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?&logo=vuedotjs&logoColor=%234FC08D)
+
+### 🥅 Other
+![Kali](https://img.shields.io/badge/Kali-268BEE?&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?&logo=Gradle&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?&logo=grafana&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?&logo=kubernetes&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?&logo=Raspberry-Pi)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?&logo=apache&logoColor=white)
