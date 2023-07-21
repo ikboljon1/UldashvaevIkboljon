@@ -27,11 +27,13 @@ Web Developer and DevOps
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?&logo=visual-studio-code&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&logo=firebase)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&logo=postgresql&logoColor=white)
 
 ### 📚 Frameworks, Platforms and Libraries
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white)
