@@ -4,12 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and DevOps
 ------------------------
 
-Мне 23 год. и я интересовался программированием со школы. В 2019 году я закончил школу и поступил на факультет 💻 информационных технологий 🏢 КГТУ. Я проучился там 4-й курс и на 2-м понял, что вуз не нужен, чтобы учиться в сфере IT. Потому что знания, 📖 которые дают университеты, устарели 📜 и сейчас ими никто не пользуется. Осознав это, я перестал изучать знания, которые дает университет, и начал заниматься самостоятельно по различным 🆕 курсам YouTube. В результате я 🎯 многому научился 🎉.
-
-- 👨‍💻 В настоящее время я работаю инженером-программистом
-- 🔭 В настоящее время я работаю над своими любимыми проектами.
-- 🎮 Я люблю Valorant
-
 ### 🔍 Where to find me 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i_yu_ev) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ikboljonuldashvaev@gmail.com)
@@ -21,16 +15,13 @@ Web Developer and DevOps
 
 ![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?&logo=visual-studio-code&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&logo=firebase)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&logo=postgresql&logoColor=white)
@@ -42,14 +33,10 @@ Web Developer and DevOps
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?&logo=flask&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&logo=Flutter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=TensorFlow&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?&logo=jinja&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?&logo=opencv&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?&logo=vuedotjs&logoColor=%234FC08D)
-
 ### 🥅 Other
 ![Kali](https://img.shields.io/badge/Kali-268BEE?&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)
